@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+* {
+
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    font-size: 80px;
+}
+
+#DisplayTime {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    font-family: Orbitron;
+    color: #17D4FE;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
